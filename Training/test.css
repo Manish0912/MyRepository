@@ -1,0 +1,18 @@
+#buttons button{
+    background-color: #1e81b0;
+}
+#floatingTextarea2{
+    color:rgb(95, 94, 94);
+    font-size: 70%;
+    background-color: rgb(247, 247, 252);
+}
+#dropdownMenuButton{
+    background-color: #1e81b0;
+}
+.navbar-brand{
+    font-size: 160%;
+    color:#525355;
+}
+.dropdown{
+    text-align: end;
+}
